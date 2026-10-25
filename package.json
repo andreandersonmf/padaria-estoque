@@ -1,0 +1,15 @@
+{
+  "name": "padaria-estoque",
+  "version": "1.0.0",
+  "description": "Sistema Web de Controle de Estoque para Padaria - Projeto Integrador UNISA (Programacao Web)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/testes.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "keywords": ["estoque", "padaria", "projeto-integrador", "unisa"],
+  "license": "MIT"
+}
